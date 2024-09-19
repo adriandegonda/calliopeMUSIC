@@ -1,6 +1,6 @@
 {
-  "name": "MeineErweiterung",
-  "description": "Eine Erweiterung für MakeCode Calliope Mini.",
+  "name": "Hallo und +1000 Erweiterung",
+  "description": "Erweiterung mit zwei Blöcken: 'Hallo Welt' und '+1000 und Senden'",
   "dependencies": {},
   "files": [
     "main.ts"
