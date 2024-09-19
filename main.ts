@@ -8,7 +8,7 @@ namespace meineErweiterung {
     }
 
     // Block 2: +1000 und Webserial senden
-    //% block="erhöhe Wert $wert um 1000 und sende via Webserial"
+    //% block="sende $wert an die Musikapp"
     export function sendeWert(wert: number): void {
         let neuerWert = wert + 1000;
         serial.writeLine("Gesendeter Wert: " + neuerWert);
