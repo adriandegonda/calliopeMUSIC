@@ -1,6 +1,6 @@
 {
-  "name": "Hallo und +1000 Erweiterung",
-  "description": "Erweiterung mit zwei Blöcken: 'Hallo Welt' und '+1000 und Senden'",
+  "name": "Computermusik",
+  "description": "Erweiterungen für das Projekt 'Computermusi' der ZHdK und der PHZH",
   "dependencies": {},
   "files": [
     "main.ts"
