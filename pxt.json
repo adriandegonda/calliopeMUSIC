@@ -1,6 +1,6 @@
 {
   "name": "Computermusik",
-  "description": "Erweiterungen für das Projekt 'Computermusi' der ZHdK und der PHZH",
+  "description": "Erweiterungen für das Projekt 'Computermusik' der ZHdK und der PHZH",
   "dependencies": {},
   "files": [
     "main.ts"
