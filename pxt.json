@@ -1,0 +1,8 @@
+{
+  "name": "MeineErweiterung",
+  "description": "Eine Erweiterung für MakeCode Calliope Mini.",
+  "dependencies": {},
+  "files": [
+    "main.ts"
+  ]
+}
