@@ -1,4 +1,4 @@
-//% color="#AA278D" block="Meine Erweiterung"
+//% color="#AA278D" block="Computermusik"
 namespace meineErweiterung {
 
     // Block 1: Hallo World Block
