@@ -2,7 +2,7 @@
 namespace meineErweiterung {
 
     // Block 1: Hallo World Block
-    //% block="sage Hallo Welt"
+    //% block="hallo Musikapp"
     export function sagHallo(): void {
         basic.showString("Hallo Welt");
     }
