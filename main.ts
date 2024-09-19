@@ -1,14 +1,13 @@
 //% color="#AA278D" block="Meine Erweiterung"
 namespace meineErweiterung {
-    //% block="sage Hallo"
+
+    // Block 1: Hallo World Block
+    //% block="sage Hallo Welt"
     export function sagHallo(): void {
-        basic.showString("Hallo")
+        basic.showString("Hallo Welt");
     }
-}
 
-
-//% color="#AA278D" block="Webserial Erweiterung"
-namespace webserialErweiterung {
+    // Block 2: +1000 und Webserial senden
     //% block="erhöhe Wert $wert um 1000 und sende via Webserial"
     export function sendeWert(wert: number): void {
         let neuerWert = wert + 1000;
